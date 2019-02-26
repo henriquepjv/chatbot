@@ -5,4 +5,4 @@ gem "lita"
 
 # handlers to give Lita new functionality.
 #gem "lita-google-images"
- gem "lita-karma"
+gem "lita-karma"
